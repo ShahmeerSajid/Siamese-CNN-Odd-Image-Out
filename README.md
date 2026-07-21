@@ -244,7 +244,7 @@ An extensive ablation study was conducted to quantify the contribution of each d
 | Siamese CNN + Triplet Loss | 62.1% |
 | **Final Model** | **67.10%** |
 
-The final architecture achieved a **67.10% public Kaggle accuracy**, outperforming the logistic regression baseline by more than **46 percentage points** while remaining within the strict **25,000 parameter limit**. :contentReference[oaicite:2]{index=2}
+The final architecture achieved a **67.10% public Kaggle accuracy**, outperforming the logistic regression baseline by more than **46 percentage points** while remaining within the strict **25,000 parameter limit**.
 
 ---
 
