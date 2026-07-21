@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
